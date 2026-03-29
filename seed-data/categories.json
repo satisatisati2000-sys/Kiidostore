@@ -1,0 +1,156 @@
+[
+  {
+    "id": "cat_accounts",
+    "name": "الحسابات",
+    "icon": "👑",
+    "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&q=80",
+    "subtitle": "",
+    "description": "",
+    "parentId": "",
+    "order": 1,
+    "active": true
+  },
+  {
+    "id": "cat_gems",
+    "name": "الجواهر",
+    "icon": "💎",
+    "image": "https://images.unsplash.com/photo-1542751110-97427bbecf20?auto=format&fit=crop&w=1200&q=80",
+    "subtitle": "",
+    "description": "",
+    "parentId": "",
+    "order": 2,
+    "active": true
+  },
+  {
+    "id": "cat_platforms",
+    "name": "المنصات",
+    "icon": "🎮",
+    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&q=80",
+    "subtitle": "",
+    "description": "",
+    "parentId": "",
+    "order": 3,
+    "active": true
+  },
+  {
+    "id": "cat_special",
+    "name": "العروض الخاصة",
+    "icon": "🔥",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
+    "subtitle": "",
+    "description": "",
+    "parentId": "",
+    "order": 4,
+    "active": true
+  },
+  {
+    "id": "sub_acc_starter",
+    "name": "حسابات بداية قوية",
+    "icon": "⚡",
+    "image": "",
+    "subtitle": "",
+    "description": "",
+    "parentId": "cat_accounts",
+    "order": 1,
+    "active": true
+  },
+  {
+    "id": "sub_acc_legend",
+    "name": "حسابات أسطورية",
+    "icon": "🏆",
+    "image": "",
+    "subtitle": "",
+    "description": "",
+    "parentId": "cat_accounts",
+    "order": 2,
+    "active": true
+  },
+  {
+    "id": "sub_acc_ranked",
+    "name": "حسابات رانك",
+    "icon": "🎯",
+    "image": "",
+    "subtitle": "",
+    "description": "",
+    "parentId": "cat_accounts",
+    "order": 3,
+    "active": true
+  },
+  {
+    "id": "sub_gems_small",
+    "name": "باقات صغيرة",
+    "icon": "✨",
+    "image": "",
+    "subtitle": "",
+    "description": "",
+    "parentId": "cat_gems",
+    "order": 1,
+    "active": true
+  },
+  {
+    "id": "sub_gems_mid",
+    "name": "باقات متوسطة",
+    "icon": "💠",
+    "image": "",
+    "subtitle": "",
+    "description": "",
+    "parentId": "cat_gems",
+    "order": 2,
+    "active": true
+  },
+  {
+    "id": "sub_gems_mega",
+    "name": "باقات كبيرة",
+    "icon": "🌟",
+    "image": "",
+    "subtitle": "",
+    "description": "",
+    "parentId": "cat_gems",
+    "order": 3,
+    "active": true
+  },
+  {
+    "id": "sub_ios",
+    "name": "iOS",
+    "icon": "🍎",
+    "image": "",
+    "subtitle": "",
+    "description": "",
+    "parentId": "cat_platforms",
+    "order": 1,
+    "active": true
+  },
+  {
+    "id": "sub_android",
+    "name": "Android",
+    "icon": "🤖",
+    "image": "",
+    "subtitle": "",
+    "description": "",
+    "parentId": "cat_platforms",
+    "order": 2,
+    "active": true
+  },
+  {
+    "id": "sub_flash",
+    "name": "Flash Deals",
+    "icon": "⚡",
+    "image": "",
+    "subtitle": "",
+    "description": "",
+    "parentId": "cat_special",
+    "order": 1,
+    "active": true
+  },
+  {
+    "id": "sub_bundle",
+    "name": "Bundles",
+    "icon": "🎁",
+    "image": "",
+    "subtitle": "",
+    "description": "",
+    "parentId": "cat_special",
+    "order": 2,
+    "active": true
+  }
+]

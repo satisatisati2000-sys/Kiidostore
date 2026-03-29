@@ -1,0 +1,47 @@
+[
+  {
+    "id": "slider_01",
+    "title": "عروض KIIDO الأقوى",
+    "text": "",
+    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1600&q=80",
+    "ctaLabel": "فتح",
+    "targetType": "category",
+    "targetId": "cat_accounts",
+    "categoryId": "cat_accounts",
+    "subcategoryId": "",
+    "productId": "",
+    "customUrl": "",
+    "order": 1,
+    "active": true
+  },
+  {
+    "id": "slider_02",
+    "title": "جواهر بتصميم عرض فاخر",
+    "text": "",
+    "image": "https://images.unsplash.com/photo-1542751110-97427bbecf20?auto=format&fit=crop&w=1600&q=80",
+    "ctaLabel": "فتح",
+    "targetType": "subcategory",
+    "targetId": "sub_gems_mega",
+    "categoryId": "cat_gems",
+    "subcategoryId": "sub_gems_mega",
+    "productId": "",
+    "customUrl": "",
+    "order": 2,
+    "active": true
+  },
+  {
+    "id": "slider_03",
+    "title": "حسابات مختارة بعناية",
+    "text": "",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1600&q=80",
+    "ctaLabel": "فتح",
+    "targetType": "product",
+    "targetId": "prod_acc_legend_01",
+    "categoryId": "",
+    "subcategoryId": "",
+    "productId": "prod_acc_legend_01",
+    "customUrl": "",
+    "order": 3,
+    "active": true
+  }
+]

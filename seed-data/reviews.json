@@ -1,0 +1,34 @@
+[
+  {
+    "id": "review_01",
+    "name": "سالم",
+    "text": "التصميم مرتب جدًا على ال",
+    "rating": 5,
+    "order": 1,
+    "active": true
+  },
+  {
+    "id": "review_02",
+    "name": "نواف",
+    "text": "البطاقات واضحة",
+    "rating": 5,
+    "order": 2,
+    "active": true
+  },
+  {
+    "id": "review_03",
+    "name": "رهف",
+    "text": "واجهة فخمة جدًا وتعطي ان",
+    "rating": 5,
+    "order": 3,
+    "active": true
+  },
+  {
+    "id": "review_04",
+    "name": "تركي",
+    "text": "عجبتني طريقة عرض المنتجا",
+    "rating": 4,
+    "order": 4,
+    "active": true
+  }
+]

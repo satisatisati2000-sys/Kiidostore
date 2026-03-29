@@ -1,0 +1,58 @@
+[
+  {
+    "id": "banner_01",
+    "title": "قسم الحسابات",
+    "text": "",
+    "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1600&q=80",
+    "targetType": "category",
+    "targetId": "cat_accounts",
+    "categoryId": "cat_accounts",
+    "subcategoryId": "",
+    "productId": "",
+    "customUrl": "",
+    "order": 1,
+    "active": true
+  },
+  {
+    "id": "banner_02",
+    "title": "قسم الجواهر",
+    "text": "",
+    "image": "https://images.unsplash.com/photo-1612198188060-c7c2a3b66eae?auto=format&fit=crop&w=1600&q=80",
+    "targetType": "category",
+    "targetId": "cat_gems",
+    "categoryId": "cat_gems",
+    "subcategoryId": "",
+    "productId": "",
+    "customUrl": "",
+    "order": 2,
+    "active": true
+  },
+  {
+    "id": "banner_03",
+    "title": "عروض محدودة",
+    "text": "",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1600&q=80",
+    "targetType": "subcategory",
+    "targetId": "sub_flash",
+    "categoryId": "cat_special",
+    "subcategoryId": "sub_flash",
+    "productId": "",
+    "customUrl": "",
+    "order": 3,
+    "active": true
+  },
+  {
+    "id": "banner_04",
+    "title": "أفضل قيمة",
+    "text": "",
+    "image": "https://images.unsplash.com/photo-1542751110-97427bbecf20?auto=format&fit=crop&w=1600&q=80",
+    "targetType": "product",
+    "targetId": "prod_gems_mega_01",
+    "categoryId": "",
+    "subcategoryId": "",
+    "productId": "prod_gems_mega_01",
+    "customUrl": "",
+    "order": 4,
+    "active": true
+  }
+]

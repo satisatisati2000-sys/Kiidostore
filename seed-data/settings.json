@@ -1,0 +1,27 @@
+{
+  "docId": "store",
+  "data": {
+    "storeName": "KIIDO STORE",
+    "tagline": "بونتي راش",
+    "whatsappNumber": "",
+    "instagramUrl": "https://instagram.com/kiido.store",
+    "defaultCurrency": "SAR",
+    "heroTitle": "KIIDO STORE",
+    "heroText": "",
+    "footerText": "KIIDO STORE",
+    "active": true,
+    "bgColor": "#120406",
+    "bg2Color": "#1A0508",
+    "surfaceColor": "#24070B",
+    "surface2Color": "#2D090E",
+    "primaryColor": "#E61E2A",
+    "primaryDarkColor": "#B3121D",
+    "primaryLightColor": "#FF3B47",
+    "maroonColor": "#6F0D14",
+    "textColor": "#FFFFFF",
+    "text2Color": "#E8D7D9",
+    "mutedColor": "#B99EA2",
+    "lineColor": "rgba(255,255,255,0.08)",
+    "glowColor": "rgba(230,30,42,0.22)"
+  }
+}
